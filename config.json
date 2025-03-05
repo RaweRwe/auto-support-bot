@@ -1,0 +1,22 @@
+{
+  "token": "",
+  "adminRole": "",
+  "clientId": "",
+  "guildId": "",
+  "mainLang": "en",
+  "languages": [
+    "tur",
+    "eng",
+    "ara",
+    "rus",
+    "spa",
+    "por",
+    "pol",
+    "chi_sim",
+    "chi_tra",
+    "deu",
+    "ell",
+    "fra"
+  ],
+  "categoryToCheck": "SUPPORT"
+}

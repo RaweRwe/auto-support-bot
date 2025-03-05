@@ -1,0 +1,17 @@
+{
+    "name": "auto-support",
+    "version": "1.0.0",
+    "description": "Discord bot for managing issues and fixes, with OCR (Optical Character Recognition) support for processing images",
+    "author": "Rawe",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "dependencies": {
+        "@discordjs/rest": "^2.2.0",
+        "bing-translate-api": "^4.0.1",
+        "discord.js": "^13.1.0",
+        "fs": "^0.0.1-security",
+        "tesseract.js": "^5.0.5"
+    }
+}

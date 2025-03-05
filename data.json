@@ -1,0 +1,27 @@
+[
+  {
+    "issue": "clownguard",
+    "fix": "Birinci sorunun çözümü ile ilgili açıklama.",
+    "img": "https://cdn.discordapp.com/attachments/1216027967428366416/1216039659004756059/Clown_Guard.png"
+  },
+  {
+    "issue": "hello",
+    "fix": "İkinci sorunun çözümü ile ilgili açıklama.",
+    "img": "https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif"
+  },
+  {
+    "issue": "third problem",
+    "fix": "Üçüncü sorunun çözümü ile ilgili açıklama.",
+    "img": "https://example.com/image3.jpg"
+  },
+  {
+    "issue": "clownguard2",
+    "fix": "testststs",
+    "img": ""
+  },
+  {
+    "issue": "tetetetetete",
+    "fix": "test",
+    "img": ""
+  }
+]
